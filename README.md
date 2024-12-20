@@ -4,7 +4,7 @@
 - 💞️ Please feel free to reach out if you are looking for collaborate on website/ mobile application, game project. I could do both design and code!
 - 📫 Email: nlqm0411@gmail.com
 - 😄 Linkedin: www.linkedin.com/in/luu-quynh-mai-nguyen
-⚡ Happy to make new friends!
+- ⚡ Happy to make new friends!
 
 <!---
 nlqm/nlqm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
