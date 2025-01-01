@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning coding, machine learning with C++, C#, Python, AWS and Azure
 - 💞️ Please feel free to reach out if you are looking for collaborate on website/ mobile application, game project. I could do both design and code!
 - 📫 Email: nlqm0411@gmail.com
-- 😄 Instagram: https://www.instagram.com/nlqm_
+- 😄 Instagram: https://www.instagram.com/nlqm_/
 - ⚡ Happy to make new friends!
 
 <!---
