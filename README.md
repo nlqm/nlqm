@@ -4,6 +4,7 @@
 - 💞️ Please feel free to reach out if you are looking for collaborate on website/ mobile application, game project. I could do both design and code!
 - 📫 Email: nlqm0411@gmail.com
 - 😄 Instagram: https://www.instagram.com/nlqm_/
+- 👥 Linkedln: https://www.linkedin.com/in/m-nlq/
 - ⚡ Happy to make new friends!
 
 <!---
