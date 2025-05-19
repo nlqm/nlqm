@@ -2,8 +2,16 @@
 - 👀 I’m interested in website/ mobile application, art, reading and motion designs
 - 🌱 I’m currently learning coding, machine learning with C++, C#, Python, AWS and Azure
 - 💞️ Please feel free to reach out if you are looking for collaborate on website/ mobile application, game project. I could do both design and code!
+
+## Projects
+- Apple Iphone clone website: https://appleclone.mnlq.io/
+- Brainwave website: https://brainwave.mnlq.io/
+- Malware Detection Systems with hybrid Machine Learning models - University Project: https://github.com/nlqm/Design02_MalwareDetectionThurTeam02
+
+Check my GitHub for other projects!
+
+## Contacts
 - 📫 Email: nlqm0411@gmail.com
-- 😄 Instagram: https://www.instagram.com/nlqm_/
 - 👥 Linkedln: https://www.linkedin.com/in/m-nlq/
 - ⚡ Happy to make new friends!
 
