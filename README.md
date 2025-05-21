@@ -4,8 +4,8 @@
 - 💞️ Please feel free to reach out if you are looking for collaborate on website/ mobile application, game project. I could do both design and code!
 
 ## Projects
-- Apple Iphone clone website: https://appleclone.mnlq.io/
-- Brainwave website: https://brainwave.mnlq.io/
+- Apple Iphone clone website: https://appleclone.mnlq.io/ | https://github.com/nlqm/appleCloneWebsite
+- Brainwave website: https://brainwave.mnlq.io/ | https://github.com/nlqm/brainwave
 - Malware Detection Systems with hybrid Machine Learning models - University Project: https://github.com/nlqm/Design02_MalwareDetectionThurTeam02
 
 Check my GitHub for other projects!
